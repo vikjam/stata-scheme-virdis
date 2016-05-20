@@ -52,23 +52,6 @@ linewidth p13bar            vthin
 linewidth p14bar            vthin
 linewidth p15bar            vthin
 
-symbol p   circle_hollow
-symbol p1  circle_hollow
-symbol p2  circle
-symbol p3  plus
-symbol p4  diamond_hollow
-symbol p5  diamond
-symbol p6  square_hollow
-symbol p7  square
-symbol p8  x
-symbol p9  triangle_hollow
-symbol p10 triangle
-symbol p11 smcircle
-symbol p12 smdiamond_hollow
-symbol p13 smsquare
-symbol p14 smtriangle_hollow
-symbol p15 smx
-
 symbol matrix        smcircle_hollow
 color matrixmarkline black
 color mat_label_box  background
@@ -117,7 +100,5 @@ color  tick               none
 
 color legend_line         none
 anglestyle vertical_tick  horizontal
-clockdir legend_position  11
-clockdir title_position   11
 linewidth legend_line     none
 gsize legend_key_xsize    medsmall
