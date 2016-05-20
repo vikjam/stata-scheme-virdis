@@ -5,5 +5,5 @@ Implementation of the Matplolib 'viridis' color map in Stata
 
 Run the code below via the Stata command line.
 
-	net install scheme-virdis, from(https://raw.github.com/vikjam/stata-scheme-virdis/master/) replace
+	net install scheme_virdis, from(https://raw.github.com/vikjam/stata-scheme-virdis/master/) replace
 
