@@ -92,11 +92,9 @@ linepattern xyline dash
 margin heading            bottom
 margin axis_title         small
 margin plotregion         zero
-color  plotregion_line    none
 color  matplotregion_line black
 color  heading            black
 color  major_grid         none
-color  tick               none
 
 color legend_line         none
 anglestyle vertical_tick  horizontal
