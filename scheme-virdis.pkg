@@ -1,4 +1,3 @@
-v 3
 d scheme-virdis: Implementation of the Matplolib 'viridis' color map in Stata
 d
 d Requires: Stata version 12.1+
@@ -8,5 +7,8 @@ d
 d Authors: Vikram Jambulapati
 d Contact: vikjam@mit.edu
 d
-d
-p scheme-virdis Implementation of the Matplolib 'viridis' color map in Stata
+f scheme-virdis.scheme
+f scheme-plasma.scheme
+f scheme-magma.scheme
+f scheme-inferno.scheme
+f scheme-inferno.sthlp
