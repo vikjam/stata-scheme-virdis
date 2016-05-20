@@ -1,4 +1,4 @@
-d scheme-virdis: Implementation of the Matplolib 'viridis' color map in Stata
+d scheme_virdis: Implementation of the Matplolib 'viridis' color map in Stata
 d
 d Requires: Stata version 12.1+
 d
