@@ -8,7 +8,6 @@ d Authors: Vikram Jambulapati
 d Contact: vikjam@mit.edu
 d
 f scheme-virdis.scheme
-f scheme-plasma.scheme
 f scheme-magma.scheme
 f scheme-inferno.scheme
 f scheme_virdis.sthlp
